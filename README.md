@@ -255,6 +255,7 @@ All posts include references to:
 8. ✅ Monitor analytics and engagement
 
 ### Live Blog:
+Copy and Paste the link below to your browser 👇
 ```bash
 https://webframeworksecurity.blogspot.com/
 ```
