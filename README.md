@@ -1,5 +1,7 @@
 # Web Framework Security Blog
 
+https://webframeworksecurity.blogspot.com/
+
 > A comprehensive educational blog series about web framework security vulnerabilities, best practices, and real-world case studies - designed for Blogger platform.
 
 ## 📖 About
