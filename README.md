@@ -125,25 +125,6 @@ The server demonstrates how attackers can manipulate user balances during regist
 7. Post 7: Video Demo (hands-on)
 8. References (supplementary)
 
-## 🎬 Creating Your Video
-
-Follow the guide in `video-demo/RECORDING_SCRIPT.md` to record your demonstration:
-
-### Recording Steps:
-1. Start the vulnerable server
-2. Open Postman with prepared requests
-3. Show normal user registration
-4. Demonstrate the attack (manipulating balance)
-5. Show the database results
-6. Explain the vulnerability
-7. Show secure code alternatives
-
-### Upload Options:
-- **YouTube** (recommended)
-- **Vimeo**
-- Any video hosting platform
-
-Then embed the video link in `post7-video-demonstration.html` before publishing.
 
 ## 📁 Project Structure
 
@@ -220,39 +201,7 @@ All posts include references to:
 - Academic research papers
 - Industry best practices
 
-## 💡 Tips for Success
 
-### For Your Blog:
-1. Publish posts weekly for consistent traffic
-2. Share on social media (Twitter, LinkedIn, Reddit)
-3. Engage with comments and questions
-4. Update statistics annually
-5. Add new case studies as they occur
-
-### For the Video:
-1. Use clear audio and screen recording
-2. Keep it under 15 minutes
-3. Add timestamps in video description
-4. Link to blog posts in video description
-5. Enable comments for discussion
-
-### For SEO:
-1. Use relevant keywords in titles
-2. Add meta descriptions in Blogger settings
-3. Include internal links between posts
-4. Add alt text to images
-5. Share on developer communities
-
-## 🚀 Next Steps
-
-1. ✅ Review all HTML files for accuracy
-2. ✅ Set up video demonstration server
-3. ✅ Record and edit video demonstration
-4. ✅ Upload video to hosting platform
-5. ✅ Update post7 with video embed link
-6. ✅ Publish posts to Blogger in order
-7. ✅ Share on social media
-8. ✅ Monitor analytics and engagement
 
 ### Live Blog:
 Copy and Paste the link below to your browser 👇
