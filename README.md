@@ -82,49 +82,6 @@ npm start
 
 The server demonstrates how attackers can manipulate user balances during registration through mass assignment vulnerabilities.
 
-## 📝 How to Publish on Blogger
-
-### Publishing Each Post:
-
-1. **Open Blogger Dashboard**
-   - Go to your Blogger blog
-   - Click "New Post"
-
-2. **Switch to HTML View**
-   - Click the "HTML" button in the editor toolbar
-   - Clear any default content
-
-3. **Copy HTML Content**
-   - Open one of the HTML files from `blogger-posts/`
-   - Copy all the content
-   - Paste into Blogger's HTML editor
-
-4. **Add Title**
-   - Use the post titles listed above
-   - Example: "Introduction to Web Framework Security"
-
-5. **Add Labels/Tags**
-   - Security
-   - Web Development
-   - Framework Security
-   - Best Practices
-   - Programming
-
-6. **Publish**
-   - Click "Publish" to make it live
-   - Or save as draft to review later
-
-### Recommended Publishing Order:
-
-1. Post 1: Introduction (foundation)
-2. Post 2: Vulnerabilities (problems)
-3. Post 3: Best Practices (solutions)
-4. Post 6: Statistics (context)
-5. Post 4: Case Studies (real-world)
-6. Post 5: Platform Comparison (meta)
-7. Post 7: Video Demo (hands-on)
-8. References (supplementary)
-
 
 ## 📁 Project Structure
 
